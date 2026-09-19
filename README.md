@@ -5,8 +5,11 @@
 
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00F4,50:9B5DE5,100:00D4FF&text=Mohamed%20Amine%20Souibgui&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Software%20Engineering&descAlignY=60&descSize=15&cache_bust=2" width="100%" />
+<!-- Header -->
+
+# Mohamed Amine Souibgui
+
+### Computer Engineering Student | AI & Software Engineering
 
 <br/>
 
@@ -234,6 +237,8 @@ I'm always happy to connect with developers, engineers, recruiters, and people w
 
 ### 💜 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00D4FF&height=110&section=footer&cache_bust=1" width="100%" />
+---
+
+
 
 </div>
