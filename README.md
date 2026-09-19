@@ -174,9 +174,9 @@ A project management application developed during an internship, with a focus on
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=souibgui00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats-amber-two-39.vercel.app/api?username=souibgui00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souibgui00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats-amber-two-39.vercel.app/api/top-langs/?username=souibgui00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
