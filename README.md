@@ -39,28 +39,11 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MohamedAmine:
-    def __init__(self):
-        self.name = "Mohamed Amine Souibgui"
-        self.role = "Computer Engineering Student"
-        self.university = "ESPRIT, Tunisia"
-        self.interests = [
-            "Artificial Intelligence",
-            "AI Agents & RAG",
-            "Backend Development",
-            "Full-Stack Engineering",
-            "Software Architecture",
-        ]
-        self.current_focus = "Building AI-powered agentic applications"
-        self.goal = "PFE Internship 2027 in Software / AI Engineering"
-
-    def say_hello(self):
-        print("Always learning, building, and improving!")
-
-me = MohamedAmine()
-me.say_hello()
-```
+- 🎓 **Computer Engineering student** at ESPRIT, Tunisia
+- 🤖 Passionate about **Artificial Intelligence**, **AI Agents & RAG**, and **Backend Development**
+- 💻 Skilled across **Full-Stack Engineering** and **Software Architecture**
+- 🚀 Currently focused on **building AI-powered agentic applications**
+- 🎯 Goal: **PFE Internship in 2027**, in Software or AI Engineering
 
 🎓 Computer Engineering student at **ESPRIT**, Tunisia, passionate about building intelligent and scalable software applications.
 
