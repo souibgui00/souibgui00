@@ -78,7 +78,7 @@
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nestjs,nodejs,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nestjs,nodejs,django,symfony&theme=dark" />
 </p>
 
 ### 🧠 AI & Machine Learning
@@ -104,6 +104,18 @@
   <img src="https://img.shields.io/badge/Playwright-Browser_Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Monitoring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,prometheus,grafana&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nexus-1B1C30?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -206,6 +218,40 @@ Full-stack project management tool with backend services, frontend integration, 
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏥 Medical Event Management Platform
+`Academic Project`
+
+<p>
+<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaFX-EA2D2E?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+Web and desktop application streamlining medical event registration and cutting administrative workload.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_DLI-Getting_Started_with_Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_DLI-Building_LLM_Apps_with_Prompt_Engineering-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_DLI-Building_RAG_Agents_with_LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 ---
 
