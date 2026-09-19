@@ -1,4 +1,3 @@
-
 <!--
   GitHub Profile README
   GitHub: souibgui00
@@ -23,7 +22,7 @@
 <a href="https://github.com/souibgui00">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohamedaminesouibgui00@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -50,8 +49,8 @@ class MohamedAmine:
             "Full-Stack Engineering",
             "Software Architecture",
         ]
-        self.current_focus = "Building AI-powered applications"
-        self.goal = "PFE Internship in Software Engineering / AI"
+        self.current_focus = "Building AI-powered agentic applications"
+        self.goal = "PFE Internship 2027 in Software / AI Engineering"
 
     def say_hello(self):
         print("Always learning, building, and improving!")
@@ -62,7 +61,7 @@ me.say_hello()
 
 🎓 Computer Engineering student at **ESPRIT**, Tunisia, passionate about building intelligent and scalable software applications.
 
-🤖 Currently exploring AI-powered systems, LLMs, RAG pipelines, semantic search, and AI agents.
+🤖 Currently exploring AI-powered systems, LLMs, RAG pipelines, semantic search, and autonomous AI agents.
 
 💻 Interested in the complete software engineering lifecycle — from backend architecture and APIs to modern frontend applications and deployment.
 
@@ -95,6 +94,7 @@ me.say_hello()
 <p align="center">
   <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector_Search-4F46E5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sentence--BERT-0EA5E9?style=for-the-badge" />
@@ -109,6 +109,7 @@ me.say_hello()
 
 <p align="center">
   <img src="https://img.shields.io/badge/pgvector-Vector_Database-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playwright-Browser_Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
@@ -117,17 +118,19 @@ me.say_hello()
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Recruitment Platform
-**Intelligent recruitment assistant | OneTech Business Solutions**
+### 🤖 AI-Powered Recruitment Agent Platform
+**Internship | OneTech Business Solutions — ESPRIT, 4th year**
 
-Building an AI-powered recruitment platform that helps candidates discover and evaluate relevant job opportunities.
+An intelligent recruitment platform that assists candidates in discovering relevant job opportunities, evaluating compatibility, and automating repetitive application tasks — with a human-in-the-loop approach on all critical decisions.
 
-- 📄 CV parsing using rule-based extraction and LLM-based semantic understanding.
-- 🎯 Job matching using vector embeddings, RAG, and LLM evaluation.
-- 🔎 Job-offer monitoring and compatibility scoring.
-- 🧑‍💻 Human-in-the-loop validation in the application workflow.
+- 📄 **CV parsing** — text extraction (pdfplumber) and LLM-based structured extraction (Groq/Llama) of experience, education, skills and certifications.
+- 🧠 **Vector search** — multilingual embeddings (`intfloat/multilingual-e5-large`) stored in PostgreSQL via **pgvector** for semantic candidate-job similarity.
+- 🎯 **6-factor matching engine** — combines skills, experience relevance, seniority alignment, semantic similarity, LLM qualitative evaluation, and certification bonus into a 0–100 compatibility score.
+- 🌐 **Multi-source job sourcing** — connectors for Arbeitnow, Indeed, Remotive, LinkedIn, and others, with deduplication via content fingerprinting.
+- 🧑‍💻 **ATS automation** — Playwright-driven browser agents (Greenhouse, Lever, Ashby, Gem) that navigate to job pages, fill application forms, and pause for human input on CAPTCHAs, login walls, or ambiguous questions.
+- ✍️ **LLM-generated cover letters**, tailored to each job offer's matching summary.
 
-**Tech:** Python · FastAPI · Next.js · PostgreSQL · pgvector · Docker · LLMs · RAG
+**Tech:** Python · FastAPI · Next.js · PostgreSQL · pgvector · Playwright · Groq LLM (Llama) · multilingual-e5-large · SQLAlchemy · Docker
 
 ---
 
@@ -223,7 +226,7 @@ I'm always happy to connect with developers, engineers, recruiters, and people w
   <img src="https://img.shields.io/badge/GitHub-souibgui00-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohamedaminesouibgui00@gmail.com">
   <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
