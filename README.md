@@ -39,10 +39,25 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Engineering student** at ESPRIT, Tunisia
-- 🤖 Passionate about **AI Agents, RAG**, and **Backend Development**
-- 🚀 Currently building **AI-powered agentic applications**
-- 🎯 Looking for a **PFE Internship in 2027** in Software / AI Engineering, ideally international
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-Computer_Engineering_Student-6A00F4?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/📍-ESPRIT,_Tunisia-9B5DE5?style=for-the-badge&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖-AI_Agents-00D4FF?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🔗-RAG-00D4FF?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/⚙️-Backend_Dev-00D4FF?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏗️-Software_Architecture-00D4FF?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Currently-Building_AI--powered_agentic_apps-A78BFA?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Goal-PFE_Internship_2027_in_Software_%2F_AI_Engineering-EA4335?style=flat-square&labelColor=1a1a2e" />
+</p>
 
 ---
 
@@ -95,16 +110,102 @@
 
 ## 🚀 Featured Projects
 
-**AI-Powered Recruitment Agent Platform** — Intelligent platform that sources jobs, scores CV/offer compatibility with a 6-factor matching engine, and automates ATS applications via Playwright agents. *Internship @ OneTech Business Solutions*
-`Python` `FastAPI` `Next.js` `pgvector` `Playwright` `Groq LLM`
+<table>
+<tr>
+<td width="100%">
 
-**SkillMatch — Employee Recommendation System** — AI microservice recommending employees for opportunities using Sentence-BERT and Random Forest on 1,500+ profiles. *Academic project @ ESPRIT × Assurances Maghrebia*
-`NestJS` `Next.js` `MongoDB` `Sentence-BERT` `Docker` `Kubernetes`
+### 🤖 AI-Powered Recruitment Agent Platform
+`Internship @ OneTech Business Solutions`
 
-**International Study Mobility Platform** — Digitized application and evaluation workflow for international student mobility. *Internship @ ESPRIT*
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square" />
+</p>
 
-**Project Management Application** — Full-stack project management tool with backend services and DevOps integration. *Internship @ OneTech Business Solutions*
-`Spring Boot` `Angular` `PostgreSQL` `Docker`
+An intelligent recruitment platform that assists candidates in discovering relevant job opportunities, evaluating compatibility, and automating repetitive application tasks — with a human-in-the-loop approach on all critical decisions.
+
+<details>
+<summary>📋 See full breakdown</summary>
+<br/>
+
+- 📄 **CV parsing** — text extraction (pdfplumber) and LLM-based structured extraction (Groq/Llama) of experience, education, skills and certifications
+- 🧠 **Vector search** — multilingual embeddings (`intfloat/multilingual-e5-large`) stored in PostgreSQL via **pgvector** for semantic candidate-job similarity
+- 🎯 **6-factor matching engine** — skills, experience relevance, seniority alignment, semantic similarity, LLM qualitative evaluation, and certification bonus → 0–100 compatibility score
+- 🌐 **Multi-source job sourcing** — connectors for Arbeitnow, Indeed, Remotive, LinkedIn, and others, with deduplication via content fingerprinting
+- 🧑‍💻 **ATS automation** — Playwright-driven browser agents (Greenhouse, Lever, Ashby, Gem) that navigate job pages, fill forms, and pause for human input on CAPTCHAs, login walls, or ambiguous questions
+- ✍️ **LLM-generated cover letters**, tailored to each job offer's matching summary
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🧠 SkillMatch — Employee Recommendation System
+`Academic Project @ ESPRIT × Assurances Maghrebia`
+
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentence--BERT-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+</p>
+
+An intelligent system recommending employees for opportunities based on skills and professional profiles.
+
+<details>
+<summary>📋 See full breakdown</summary>
+<br/>
+
+- Developed an AI microservice using Sentence-BERT and Random Forest
+- Worked with a dataset of 1,500 employee profiles
+- Integrated AI services with a web application and backend API
+- Contributed to containerization and CI/CD workflows
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 International Study Mobility Platform
+`Internship @ ESPRIT`
+
+A web platform digitizing the application, evaluation, and notification process for international student mobility.
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Project Management Application
+`Internship @ OneTech Business Solutions`
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+Full-stack project management tool with backend services, frontend integration, and DevOps practices.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -135,6 +236,17 @@
 <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=souibgui00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
 
 </div>
+
+---
+
+## 🎯 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-AI_Agents_&_LLM_apps-6D28D9?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🔍-Semantic_Search_&_RAG-6D28D9?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/⚙️-Scalable_Backend-6D28D9?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🐳-Docker_&_CI/CD-6D28D9?style=flat-square&labelColor=1a1a2e" />
+</p>
 
 ---
 
