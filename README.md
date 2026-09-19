@@ -6,12 +6,12 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00F4,50:9B5DE5,100:00D4FF&text=Mohamed%20Amine%20Souibgui&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Software%20Engineering&descAlignY=60&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6A00F4,50:9B5DE5,100:00D4FF&text=Mohamed%20Amine%20Souibgui&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Software%20Engineering&descAlignY=60&descSize=15&cache_bust=1" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+software+solutions;Exploring+AI+%26+Agentic+Systems;Turning+ideas+into+real+applications;Computer+Engineering+Student+%40+ESPRIT;Open+to+PFE+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+software+solutions;Exploring+AI+%26+Agentic+Systems;Turning+ideas+into+real+applications;Computer+Engineering+Student+%40+ESPRIT;Open+to+PFE+Internship+Opportunities+%F0%9F%9A%80&cache_bust=1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -194,7 +194,7 @@ A project management application developed during an internship, with a focus on
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=souibgui00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=souibgui00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
 
 </div>
 
@@ -234,6 +234,6 @@ I'm always happy to connect with developers, engineers, recruiters, and people w
 
 ### 💜 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00D4FF&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00D4FF&height=110&section=footer&cache_bust=1" width="100%" />
 
 </div>
