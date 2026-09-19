@@ -255,13 +255,24 @@ Web and desktop application streamlining medical event registration and cutting 
 
 ---
 
+## 🌐 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/French-Fluent-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Fluent-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spanish-Basic-1a1a2e?style=flat-square" />
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-amber-two-39.vercel.app/api?username=souibgui00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_bust=1" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=souibgui00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats-amber-two-39.vercel.app/api/top-langs/?username=souibgui00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=1" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=souibgui00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
